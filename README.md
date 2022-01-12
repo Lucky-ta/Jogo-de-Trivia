@@ -22,3 +22,4 @@ npm install react-bootstrap bootstrap@5.1.3
 npm start
 ```
 ou entre no link abaixo para visualizar o projeto funcionando:
+https://jogo-de-trivia-62uavc7sx-lucky-ta.vercel.app/
